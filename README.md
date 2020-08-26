@@ -1,6 +1,6 @@
-# ade_feeds
+# Dark Theme Chat App
 
-A new Flutter application.
+This is a Dark Theme Chat App implementation with Flutter.
 
 ## Getting Started
 
